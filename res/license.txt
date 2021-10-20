@@ -1,6 +1,6 @@
 Wind Farm
 
-Data from: https://opendata.edp.com/pages/challenges/description-#description-
+Download data from: https://opendata.edp.com/pages/challenges/description-#description-
 
 Publisher: EDP Inovacao
 License: CC BY-SA
