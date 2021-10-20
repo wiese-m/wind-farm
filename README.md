@@ -1,8 +1,9 @@
-# Farma Wiatrowa
+# Farmy Wiatrowe
 
 Projekt wykonano w Pythonie v3.8.5.
 
 Pakiety: podstawowe pakiety z dystrybucji Anaconda (numpy, pandas, matplotlib, seaborn, scikit-learn)
+
 Dodatkowe pakiety: scikit-learn-extra (algorytm k-medoidów), kneed
 
 Dane surowe należy pobrać i wrzucić do folderu res.
